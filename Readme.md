@@ -15,37 +15,37 @@ The goal is to enable businesses to make data-driven decisions through descripti
 
 📈 Sales Dashboard
 
-KPIs at a glance – Total Sales, Orders, Returns, and Profit
+1.KPIs at a glance – Total Sales, Orders, Returns, and Profit
 
-Sales Analysis – Monthly and yearly trends
+2.Sales Analysis – Monthly and yearly trends
 
-Profit Trends – Yearly profit distribution
+3.Profit Trends – Yearly profit distribution
 
-Category & Sub-Category Breakdown – Identify best and worst performers
+4.Category & Sub-Category Breakdown – Identify best and worst performers
 
-Customer Segment Analysis – Contribution of Consumer, Corporate, and Home Office
+5.Customer Segment Analysis – Contribution of Consumer, Corporate, and Home Office
 
-Shipping Mode Impact – Sales distribution by shipping methods
+6.Shipping Mode Impact – Sales distribution by shipping methods
 
-Geographical Insights – Map visualization for regional sales
+7.Geographical Insights – Map visualization for regional sales
 
 🔮 **Forecast Dashboard**
 
-15-Day Sales Forecast based on historical data
+**15-Day Sales Forecast based on historical data**
 
-Interactive Line Charts – Compare past sales with forecast
+1.Interactive Line Charts – Compare past sales with forecast
 
-Timeline Slicer – Zoom into specific time periods
+2.Timeline Slicer – Zoom into specific time periods
 
-Highlights seasonality and sales fluctuations
+3.Highlights seasonality and sales fluctuations
 
 🛠️ **Tools & Technologies**
 
-Power BI – Visualization and forecasting
+**Power BI** – Visualization and forecasting
 
-Excel/CSV dataset – Superstore Sales Data
+**Excel/CSV dataset** – Superstore Sales Data
 
-DAX Measures – For KPIs and calculations
+**DAX Measures** – For KPIs and calculations
 
 📷 **Dashboard Previews**
 
@@ -68,4 +68,5 @@ Sales peak towards year-end, showing seasonality.
 
 Forecast suggests an upward trend in sales for the upcoming 15 days.
 
-⭐ Author: Pranali Gambhir
+⭐ Author:  
+**Pranali Gambhir**
