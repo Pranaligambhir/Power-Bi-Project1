@@ -1,6 +1,6 @@
-📊 Superstore Sales Dashboard & Forecast
+📊 **Superstore Sales Dashboard & Forecast**
 
-📌** Project Overview**
+📌**Project Overview**
 
 This project analyzes Superstore Sales Data using Power BI.
 It includes two dashboards:
